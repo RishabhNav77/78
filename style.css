@@ -1,0 +1,14 @@
+body{
+    color: rgb(0, 0, 0);
+}
+
+img{
+    width: 100%;
+    height: 500px;
+}
+
+.ssl-images-amazon{
+    background-color: paleturquoise;
+    margin: 25px;
+    color: rebeccapurple;
+}
